@@ -15,6 +15,8 @@ public class charseq {
             System.out.print(a.charAt(i)+" ");
         }
 
+        System.out.println("characher: "+a.charAt(9));
+
 
 
 
